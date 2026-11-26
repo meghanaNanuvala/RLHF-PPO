@@ -1,0 +1,8 @@
+out/
+out_smoke/
+hf_cache/
+logs/
+*.pt
+*.tmp
+__pycache__/
+.ipynb_checkpoints/
